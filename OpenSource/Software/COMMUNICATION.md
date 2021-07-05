@@ -1,5 +1,3 @@
-You're welcome to drop in and ask questions, discuss bugs and such. 
-
 > GitHub issues aren't the primary way for communicating 
 > about specific proposed changes to this project.
 
