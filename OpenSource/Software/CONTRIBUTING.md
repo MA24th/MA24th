@@ -30,20 +30,3 @@ of the content.*
 We are committed to providing a friendly, safe and welcoming environment for
 all, regardless of gender, sexual orientation, disability, ethnicity, religion,
 or similar personal characteristic, For more experience please read [Code Of Conduct](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/CODE_OF_CONDUCT.md).
-
-
-# Communication
-
-There is an discord server on [MA24th Community](https://discord.gg/g65AqbPK6g), 
-You're welcome to drop in and ask questions, discuss bugs and such. 
-
-GitHub issues aren't the primary way for communicating about specific proposed
-changes to this project.
-
-In both contexts, please follow the conduct guidelines above. Language issues
-are often contentious and we'd like to keep discussion brief, civil and focused
-on what we're actually doing, not wandering off into too much imaginary stuff.
-
-# Frequently Asked Questions
-
-*please add*
