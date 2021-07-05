@@ -22,4 +22,4 @@ For more information [contact me](mailto:ma24th@yahoo.com) with any additional q
 
 ## License
 Copyright (c) MA24th Software. All rights reserved.
-Licensed under the [MIT](https://github.com/MA24th/MA24th/blob/main/LICENSE) license.
+Licensed under the [MIT](https://opensource.org/licenses/MIT) License.
