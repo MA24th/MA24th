@@ -24,9 +24,3 @@ content.*
 - **Copy Editing**: *fix typos, clarify language, and generally improve the quality
 of the content.*
 - **Formatting**: *help keep content easy to read with consistent formatting.*
-
-# Conduct
-
-We are committed to providing a friendly, safe and welcoming environment for
-all, regardless of gender, sexual orientation, disability, ethnicity, religion,
-or similar personal characteristic, For more experience please read [Code Of Conduct](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/CODE_OF_CONDUCT.md).
