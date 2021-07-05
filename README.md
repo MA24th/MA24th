@@ -1,5 +1,4 @@
 <h3 align="center">Hi, I'm Mustafa</h3>
-<p align="center"><a href="https://twitter.com/MA24th">Twitter</a>
 <hr>
 
 ### 🔭  My current project
