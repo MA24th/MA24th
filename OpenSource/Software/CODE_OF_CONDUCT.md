@@ -67,7 +67,7 @@ members of the project's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted for [MA24th Open Source Software](https://github.com/MA24th/MA24th/OpenSource/Software),
+This Code of Conduct is adapted for [MA24th Open Source Software](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/README.md),
 For more information [contact me](mailto:ma24th@yahoo.com) with any additional questions or comments.
 
 ## License
