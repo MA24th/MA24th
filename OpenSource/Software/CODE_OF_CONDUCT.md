@@ -64,13 +64,3 @@ Further details of specific enforcement policies may be posted separately.
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is adapted for [MA24th Open Source Software](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/),
-For more information [contact me](mailto:ma24th@yahoo.com) with any additional questions or comments.
-
-## License
-
-Copyright (c) MA24th Software. All rights reserved.
-Licensed under the [MIT](https://github.com/MA24th/MA24th/blob/main/LICENSE) license.
