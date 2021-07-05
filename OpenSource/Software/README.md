@@ -12,3 +12,6 @@ This is MA24th Open Source Software Agreement
 ## How to Communicate
 You're welcome to drop in and ask questions, 
 discuss bugs and such, Check [Communication](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/COMMUNICATION.md) Methods.
+
+## Frequently Asked Questions
+You must check [FAQ](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/FAQ.md) before asking questions.
