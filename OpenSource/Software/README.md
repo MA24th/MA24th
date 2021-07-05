@@ -6,4 +6,9 @@ This is MA24th Open Source Software Agreement
 
 - We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic, For more experience read [Code Of Conduct](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/CODE_OF_CONDUCT.md).
 
-- Use this to [Communicate](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/COMMUNICATION.md).
+
+
+
+## How to Communicate
+You're welcome to drop in and ask questions, 
+discuss bugs and such, Check [Communication](https://github.com/MA24th/MA24th/blob/main/OpenSource/Software/COMMUNICATION.md) Methods.
