@@ -7,8 +7,8 @@
 
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ma24th)
 
-I am a software engineering hobbyist with a passion for DevOps development, and finding ways to improve the world with my talents and passions! 
-<img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
+I am a software engineering hobbyist with a passion for DevOps development, 
+And finding ways to improve the world with my talents and passions!
 
 **What I'm up to?**
 
