@@ -6,7 +6,7 @@
 
 ### Happy to meet you! &nbsp; 
 
-I am a software engineering hobbyist with a passion for DevOps development, 
+I am a software engineering hobbyist with a passion for software development, 
 And finding ways to improve the world with my talents and passions!
 
 **What I'm up to?**
