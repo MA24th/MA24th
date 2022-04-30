@@ -21,7 +21,7 @@ And finding ways to improve the world with my talents and passions!
 <!--START_SECTION:waka-->
 
 ```text
-From: 1 Jun 2022 - To: 30 March 2022
+From: 1 Jun 2022 - To: 1 May 2022
 
 Python       4 hrs 35 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.44 %
 CMake        2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.00 %
