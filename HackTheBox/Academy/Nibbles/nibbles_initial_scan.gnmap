@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Thu Sep  8 22:50:02 2022 as: nmap -A -oA nibbles_initial_scan 10.129.21.211
+Host: 10.129.21.211 ()	Status: Up
+Host: 10.129.21.211 ()	Ports: 22/open/tcp//ssh//OpenSSH 7.2p2 Ubuntu 4ubuntu2.2 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.18 ((Ubuntu))/	Ignored State: closed (998)	Seq Index: 262	IP ID Seq: All zeros
+# Nmap done at Thu Sep  8 22:50:34 2022 -- 1 IP address (1 host up) scanned in 31.43 seconds

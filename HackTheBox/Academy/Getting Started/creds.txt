@@ -1,0 +1,8 @@
+http://10.129.42.249/admin
+admin | admin
+
+mrb3n
+user.txt | 7002d65b149b0a4d19132a66feed21d8
+
+root
+flag.txt | f1fba6e9f71efb2630e6e34da6387842
