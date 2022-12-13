@@ -1,0 +1,14 @@
+Vaccine
+ftpuser:mc@F1l3ZiLL4
+admin:qwerty789
+
+
+web page login
+admin: qwerty789
+
+
+pg_connect
+dbname=carsdb
+user=postgres
+password=P@s5w0rd!
+
