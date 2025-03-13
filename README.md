@@ -7,11 +7,10 @@
 
 ### Happy to meet you! &nbsp; 
 
-I am a Land Surveyor with a passion for software development,     
+I am a Senior Land Surveyor with a passion for software development,     
 And finding ways to improve the world with my talents and passions!
 
 **What I'm up to?**
-- Making [Discord Bot API Framework](https://github.com/MA24th/ddbotapi)
 - Maintenance open source projects
 - Hacking Some HackTheBox Machines
 - Buying another plant :)
